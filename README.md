@@ -8,6 +8,11 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [Website]
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+- Working on my Robotic Arm Project nicknamed "The Claw"!
+- Developing Property Panda🐼!!! .
+```
 - 🌱 I’m currently learning [ROS 2](https://docs.ros.org/en/foxy/index.html), [Go](https://go.dev/), [C++](https://cplusplus.com/)  
 - 💻 More about me: [website]  
 - 📫 How to reach me: [diegostefanoperez@gmail.com](mailto:diegostefanoperez@gmail.com)
