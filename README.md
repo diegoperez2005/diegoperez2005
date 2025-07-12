@@ -12,6 +12,7 @@
 ```yaml
 - Working on my Robotic Arm Project nicknamed "The Claw"!
 - Developing Property Panda🐼!!! .
+- Creating Personal VTOL Plane or Robotic Dog?
 ```
 - 🌱 I’m currently learning [ROS 2](https://docs.ros.org/en/foxy/index.html), [Go](https://go.dev/), [C++](https://cplusplus.com/)  
 - 💻 More about me: [website]
