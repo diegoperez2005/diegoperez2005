@@ -17,5 +17,5 @@
 - 💻 More about me: [website]
 - 🚧 My personal portfolio website is currently under construction — check back soon!
 - 📫 How to reach me: [diegostefanoperez@gmail.com](mailto:diegostefanoperez@gmail.com)
-- ✈️ Helping Build WashU VTOL! 
+- ✈️ Helping Build WashU VTOL! (email me if you want to join!!!!)
 
