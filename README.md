@@ -14,7 +14,6 @@
 - Creating Personal VTOL Plane or Robotic Dog?
 ```
 - 🌱 I’m currently learning [ROS 2](https://docs.ros.org/en/foxy/index.html), [C++](https://cplusplus.com/), [JavaScript](https://www.javascript.com/) 
-- 💻 More about me: [website]
 - 🚧 My personal portfolio website is currently under construction — check back soon!
 - 📫 How to reach me: [diegostefanoperez@gmail.com](mailto:diegostefanoperez@gmail.com)
 - ✈️ Helping Build WashU VTOL! (email me if you want to join!!!!)
