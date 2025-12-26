@@ -15,6 +15,6 @@
 ```
 - 🌱 I’m currently learning [ROS 2](https://docs.ros.org/en/foxy/index.html), [C++](https://cplusplus.com/), [JavaScript](https://www.javascript.com/) 
 - 🚧 My personal portfolio website is currently under construction — check back soon!
-- 📫 How to reach me: [diegostefanoperez@gmail.com](mailto:diegostefanoperez@gmail.com)
+- 📫 How to reach me: 
 - ✈️ Helping Build WashU VTOL! (email me if you want to join!!!!)
 
